@@ -1,0 +1,20 @@
+{
+  "name": "parscashrbk",
+  "version": "1.0.0",
+  "description": "Парсер курсов валют РБК и ЦБ РФ",
+  "main": "cbr_parser.js",
+  "scripts": {
+    "cbr": "node cbr_parser.js",
+    "parse": "node cbr_parser.js"
+  },
+  "keywords": [
+    "currency",
+    "parser",
+    "cbr",
+    "rbc"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
+
